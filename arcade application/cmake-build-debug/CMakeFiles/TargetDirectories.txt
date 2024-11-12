@@ -1,0 +1,3 @@
+C:/Users/korne/Desktop/arcade application/cmake-build-debug/CMakeFiles/arcade_application.dir
+C:/Users/korne/Desktop/arcade application/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/korne/Desktop/arcade application/cmake-build-debug/CMakeFiles/rebuild_cache.dir
