@@ -31,7 +31,7 @@ Elke game moet een eigen map hebben met de volgende structuur:
 
 
 
-- `logo.png` - Het logo van de game dat in de launcher wordt getoond.
+- `coverart.png` - Het logo van de game dat in de launcher wordt getoond.
 
 - `banner.png` - Een banner die bovenaan de informatiepagina wordt weergegeven.
 
@@ -73,7 +73,7 @@ Elke game moet een eigen map hebben met de volgende structuur:
 
 2. **Voeg het logo en de banner toe**:  
 
-   - Plaats een afbeelding genaamd `logo.png` in de map van de game.
+   - Plaats een afbeelding genaamd `coverart.png` in de map van de game.
 
    - Plaats een afbeelding genaamd `banner.png` in de map van de game.
 
